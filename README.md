@@ -6,4 +6,4 @@ Pytorch implementations of the reinforcement learning (RL) algorithms, including
 
 ## Requirements
 
-Use 'pip install -r requirements.txt' to install the following requirements:
+Use `pip install -r requirements.txt` to install the following requirements:
