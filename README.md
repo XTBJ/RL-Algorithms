@@ -4,6 +4,8 @@ Pytorch implementations of the reinforcement learning (RL) algorithms, including
 
 ## Corresponding Papers
 
+- [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602)
+
 ## Requirements
 
 Use `pip install -r requirements.txt` to install the following requirements:
